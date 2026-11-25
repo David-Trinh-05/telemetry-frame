@@ -1,0 +1,7 @@
+[package]
+name = "telemetry-frame"
+version = "0.1.0"
+edition = "2021"
+description = "Allocation-free binary telemetry framing for UART byte streams"
+
+[dependencies]
